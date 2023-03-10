@@ -21,7 +21,7 @@ If you run this application in the terminal it use inquirer package and in the t
 
 ## Installation
 
-npm init
+`npm init`
 
 ## License
 
@@ -33,7 +33,11 @@ npm init
 
 ## Test
 
-npm run test
+`npm run test`
+
+## Mock Up
+
+![alt text](./img/readme.png)
 
 ## Questions
 
