@@ -21,7 +21,6 @@ If you run this application in the terminal it use inquirer package and in the t
 
 ## Installation
 
-
 `npm init`
 
 ## License
